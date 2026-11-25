@@ -2,7 +2,7 @@
  
 <p align="center">
   <img src="https://img.shields.io/badge/University-Shiraz_University-6f42c1?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/CS50x-Harvard-6f42c1?style=for-the-badge&logo=Course&logoColor=white" />
+  <img src="https://img.shields.io/badge/Birthday-17 DEC 2006-6f42c1?style=for-the-badge&logo=Course&logoColor=white" />
   <img src="https://img.shields.io/badge/MBTI-INTJ-6f42c1?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/Field-Professional CpE-6f42c1?style=for-the-badge&logo=&logoColor=white" />
 </p>
