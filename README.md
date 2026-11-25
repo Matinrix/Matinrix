@@ -1,62 +1,121 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=bd93f9&width=439&lines=%F0%9F%8C%8C%20Hi%2C%20I'm%20%20MAT%20%20%F0%9F%91%8B)
- 
-<p align="center">
-  <img src="https://img.shields.io/badge/University-Shiraz_University-6f42c1?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/Birthday-17 DEC 2006-6f42c1?style=for-the-badge&logo=Course&logoColor=white" />
-  <img src="https://img.shields.io/badge/MBTI-INTJ-6f42c1?style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Field-Professional CpE-6f42c1?style=for-the-badge&logo=&logoColor=white" />
-</p>
+ <!-- MATINRIX PROFILE README -->
 
-<p align="center">
-  <em>"Creating logic out of chaos, and beauty out of code."</em>
-</p>
+<div align="center">
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matinrix&layout=compact&bg_color=0d1117&title_color=bd93f9&text_color=ffffff&icon_color=bd93f9&hide_border=true)
- ![Activity Graph](https://github-readme-stats.vercel.app/api?username=Matinrix&theme=radical&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=bd93f9&text_color=ffffff)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Matinrix&bg_color=0d1117&color=bd93f9&line=bd93f9&point=ffffff&area=true&hide_border=true)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=8F00FF&center=true&vCenter=true&width=600&height=55&lines=Hi%2C+I'm+MAT+%F0%9F%91%8B;Computer+Engineering+Student;Building+Ideas+Into+Reality;Code+Meets+Creativity" alt="Typing SVG" />
 
----
-### 🎨 The Artistic Engineer & Industrial Designer
-I blend technical precision with artistic soul to bridge the gap between engineering and aesthetics.
+<br/>
 
-*   **💎 Current Focus:** Designing intricate engraving & laser-cutting patterns for the **Jewelry Industry**.
-*   **🖌️ Graphic Expertise:**
-    *   <img src="https://img.shields.io/badge/CorelDraw-Expert-6f42c1?style=flat&logo=coreldraw&logoColor=white" />
-    *   <img src="https://img.shields.io/badge/Illustrator-Skill-6f42c1?style=flat&logo=adobe-illustrator&logoColor=white" />
-    *   <img src="https://img.shields.io/badge/Photoshop-Skill-6f42c1?style=flat&logo=adobe-photoshop&logoColor=white" />
-*   **🖼️ UI/UX & Media:** Passionate about branding, professional layouts, and visual storytelling.
-*   **💼 Work History:** Experience ranging from Print Production and Judiciary Electronic Services to technical design roles.
+**Computer Engineering · Creative Technology · Software Development**
+
+<br/>
+
+<img src="https://img.shields.io/badge/BASED_IN-Shiraz%2C_Iran-8F00FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/ACADEMIC_FIELD-Computer_Engineering-8F00FF?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-Engineering_%26_Design-8F00FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+<br/><br/>
+
+*“Turning abstract ideas into things that actually exist.”*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Matinrix-8F00FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Matinrix)
+
+</div>
 
 ---
 
-### 💻 Computer Engineering & Dev Roots
-A lifelong learner driven by the desire to build and innovate.
+## `01` — About Me
 
-*   **🎓 Academics:** Pursuing a Computer Engineering degree at **Shiraz University**.
-*   **🌐 CS50x:** Actively completing the Harvard CS50 curriculum.
-*   **⌨️ Dev Background:** Developed custom **Android Keyboards** using **Java** in my early days.
-*   **🤖 Interests:** Robotics, Human-AI interaction, and low-level system engineering.
+I'm a Computer Engineering student with a strong interest in the intersection of **technology, engineering, and visual creativity**.
 
----
+I enjoy understanding how things work, experimenting with ideas, and eventually turning them into something tangible — whether that's software, a digital experience, or a physical design.
 
-### 🕹️ The Visionary World-Builder
-Deeply inspired by narrative depth and complex game systems. Currently conceptualizing a dream project:
+- 🎓 **Education:** Computer Engineering
+- 💻 **Software:** Programming, application development & computer science
+- 🎨 **Creative Side:** Graphic design, branding & digital aesthetics
+- ⚙️ **Engineering Interests:** Robotics, electronics & intelligent systems
+- 🎮 **Personal Interests:** Game development, interactive worlds & game systems
 
-*   **Concept:** A massive **F2P Open-World RPG** with a unique 5-nation geopolitical architecture.
-*   **Mechanics:** AI-Driven Sovereignty & a strictly cosmetic-based economy.
-*   **Aesthetic:** A fusion of **Neon Urbanism** and **Golden High-Fantasy**.
+I believe good engineering isn't just about making something work. It's about making it work beautifully.
 
 ---
 
-### 🎼 Soul, Spirit & Meta
-*   **🎹 Piano:** A lifelong admirer of piano compositions, currently planning to master the instrument.
-*   **✨ Metaphysics:** Fascinated by the "Meta"—the unseen, underlying patterns of our reality.
-*   **🏹 Sagittarius:** Driven by exploration and a strategic, long-term INTJ mindset.
+## `02` — Technical Toolkit
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cs,python,java&theme=dark" />
+
+### Design & Creative Tools
+
+<img src="https://skillicons.dev/icons?i=ai,ps&theme=dark" />
+
+**Additional tools:** CorelDRAW · Digital Illustration · Vector Design · Laser Engraving Design
+
+### Currently Exploring
+
+- 📚 Computer Science fundamentals through Harvard CS50x
+- 🐍 Python and object-oriented programming
+- 🧩 Software architecture and problem solving
+- 🤖 Robotics and human–AI interaction
 
 ---
 
-<p align="center">
-  <b>Let's connect and talk about Game Design, AI, or the architecture of a perfect layout!</b><br>
-  <i>Always open to creative collaborations.</i>
-</p>
+## `03` — Beyond the Code
+
+Technology is only one part of what I enjoy creating.
+
+**🎨 Visual Design & Digital Craft**
+
+Interested in visual identity, branding, typography, vector illustration, and the relationship between aesthetics and functionality.
+
+**⚙️ Engineering & Making**
+
+Drawn to robotics, electronics, fabrication, and the process of transforming digital concepts into physical objects.
+
+**🎮 Game Worlds & Systems**
+
+Fascinated by large-scale open-world RPGs, world-building, geopolitical systems, and meaningful player-driven experiences.
+
+**✨ Creative Exploration**
+
+From interactive experiences to unconventional design concepts, I enjoy exploring ideas that combine different disciplines.
+
+---
+
+## `04` — GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Matinrix&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8F00FF&icon_color=8F00FF&text_color=C9D1D9&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matinrix&layout=compact&hide_border=true&bg_color=0D1117&title_color=8F00FF&text_color=C9D1D9&langs_count=6" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Matinrix&theme=transparent&hide_border=true&background=0D1117&ring=8F00FF&fire=8F00FF&currStreakLabel=8F00FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matinrix&bg_color=0D1117&color=8F00FF&line=8F00FF&point=FFFFFF&area=true&area_color=8F00FF&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### — MATINRIX —
+
+*Curiosity drives the questions. Creativity shapes the answers. Engineering makes them real.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-8F00FF?style=for-the-badge" />
+
+</div>
+
+<!-- END OF PROFILE -->
+
